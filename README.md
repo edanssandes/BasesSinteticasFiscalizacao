@@ -24,7 +24,7 @@ Se este repositório for útil para sua pesquisa ou trabalho, utilize a seguinte
 ## 📝 Exemplos
 
 (em construção)
-1. Identificação de Irregularidades em Concessão de benefícios previdenciários
+1. [Identificação de Irregularidades em Concessão de benefícios previdenciários](01.%20INSS/DESCRICAO.md)
 1. Identificação de Outliers em Contratos Públicos
 1. Análise de superfaturamento em compras governamentais
 1. Detecção de fraudes em licitações públicas
